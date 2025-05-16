@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254144317726",
+    "project_id": "leaderboard-cb401",
+    "storage_bucket": "leaderboard-cb401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254144317726:android:e13ae042ad3e10f6c6610f",
+        "android_client_info": {
+          "package_name": "com.example.leaderboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_ITHdfZIQtyDFvHkJRZGjN5LRQTWRSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
