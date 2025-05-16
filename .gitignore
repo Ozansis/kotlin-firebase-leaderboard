@@ -13,3 +13,17 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Firebase
+google-services.json
+serviceAccountKey.json
+
+
+
+# Keystore (APK signing)
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
